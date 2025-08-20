@@ -2,7 +2,7 @@
 
 Documentation is also code, and you can run this just by reading it:
 
-cat README.md
+incant README.md
 
 1
 
