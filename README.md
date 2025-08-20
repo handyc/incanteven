@@ -14,7 +14,8 @@ chmod 700 incanteven/README.md; incanteven/README.md
 ###### more documentation .... []
 ###### more documentation .... []
 ###### more documentation .... []
-#### Functions are invoked by their names if known:
+#### Code is documentation, it can go anywhere, but the code and its output are distinct:
+echo $0
 #### Statements not otherwise parseable are considered commentary
 ####
 #### to be continued ...
