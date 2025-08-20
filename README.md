@@ -14,8 +14,6 @@ Documentation is also code, and you can run this just by reading it:
 #3
 #
 #4
-#
-#5
 #Functions are invoked by their names if known:
 #Know that there is a library for math --
 #Add 2 and 2 and show the result,
