@@ -8,7 +8,7 @@ chmod 700 incanteven/README.md; incanteven/README.md
 ```
 
 #### echo $(realpath "$0") "$0"; sleep 1; eval ./"$0"
-##### 0computation occurs here
+date
 ##### 1computation occurs here
 ##### 2computation occurs here
 ##### 3computation occurs here
