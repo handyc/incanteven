@@ -16,22 +16,6 @@ cat README.md
 
 6
 
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
 Functions are invoked by their names if known:
 Know that there is a library for math --
 Add 2 and 2 and show the result,
