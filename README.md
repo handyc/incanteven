@@ -1,6 +1,8 @@
 "Hello, World!"
 
-Documentation is also code.
+Documentation is also code, and you can run this just by reading it:
+
+cat README.md
 
 Functions are invoked by their names if known:
 Know that there is a library for math --
