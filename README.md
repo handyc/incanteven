@@ -1,6 +1,6 @@
 "Hello, World!"
 
-Documentation is also code, and you can run this just by reading it:
+#Documentation is also code, and you can run this just by reading it:
 
 #echo $(realpath "$0") "$0"; sleep 1; eval ./"$0"
 
