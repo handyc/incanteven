@@ -14,7 +14,7 @@ chmod 700 incanteven/README.md; incanteven/README.md
 ###### more documentation .... []
 ###### more documentation .... []
 ###### more documentation .... []
-#### Code is documentation and can go anywhere; code and its output are distinct:
+#### Code is documentation and can go anywhere; code and output are distinct:
 echo $0 # output will appear at the bottom
 #### Statements not otherwise parseable are considered commentary
 ####
